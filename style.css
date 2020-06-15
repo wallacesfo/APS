@@ -1,0 +1,144 @@
+body{
+	background-color: #5dadec;
+	height: 100%;
+	margin: 0px;
+	font-family: Helvetica, arial, sans-serif;
+	color: black;
+
+}
+.conteudo-principal{
+	background-color: white;
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: -18px;
+	padding-top: 200px;
+	padding-left: 150px;
+	padding-right: 150px;
+	font-size: 25px;
+	text-align: justify;
+	
+}
+/* menu principal*/
+.navegation-list{
+	background-color: #003c5c;
+	list-style: none;
+	margin: 0;
+	padding-left: 550px;
+}
+.navigation-list-item{
+	display: inline;
+}
+.link{
+	padding: 30px 20px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+.navegation ul li a:hover{
+	color: #0099ff;	
+}
+.logo{
+	padding: 10px 3000px 10px 30px;
+	background-color:#5dadec;
+}
+.imagem{
+	padding: 10px;
+	padding-bottom:0;
+}
+/*conteudo home*/
+.conteudo-principal-home{
+	background-color: white;
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: -18px;
+	padding-top: 200px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 25px;
+	text-align: justify;
+}
+	
+.sugestoes-home-links{
+	display: inline-block;
+	padding: 0px;
+	margin: 0px;
+	border: 2px;
+	border-style: solid;
+	border-color: #003c5c;
+}
+.navegation-home ul li a:hover{
+	color: #0099ff;	
+}
+.link-home{
+	text-decoration: none;
+	color: black;
+}
+.sugestoes-home{
+	padding-left: 60px;
+}
+.p-home{
+	margin-top: 0px;
+
+}
+.title-home-{
+	margin: 6px 6px 2px 6px;
+	
+}
+.title-home{
+	margin: 6px;
+}
+.fundo1{
+	text-align: center;
+}
+/*conteudo principal*/
+/*pagina reuso*/
+.imagem-main-reuso{
+	width: 50%;
+	padding-left: 20px;
+}
+.imagem-main1-reuso{
+	width:30%;
+}
+/*pagina uso consciente*/
+.imagem-main-usoconsciente{
+	padding: 20px;
+	width: 50%;
+}
+/*pagina sustentabilidade*/
+.imagem-main-sustentabilidade{
+	padding: 20px;
+	width: 50%;
+}
+.video-main-sustentabilidade{
+	margin-left:200px;
+	width: 50%;
+}
+.cabecalho{
+	position: fixed;	
+}
+/*pagina campanha*/
+.imagem-main-campanha{
+	margin-left: 200px;
+	width: 50%;
+}
+/* rodape*/
+.main-footer{
+	background-color:#003c5c;
+	color: white;
+	position: relative;
+	padding: 10px;
+}
+.footer-section{
+	display: inline-block;
+	width: 32%;
+	min-width: 230px;
+	vertical-align: top;
+}
+.imagem-footer{
+	padding-left: 50px;
+	padding-top: 30px;
+}
+.link-footer{
+	color: white;
+	text-decoration: none;
+}
